@@ -10,3 +10,17 @@ Inorder-successor : if we are deleting a node in the binary search tree take the
 Inorder traversal:
 -----------------------
 Follow (left, root, right)
+Link : https://media.geeksforgeeks.org/wp-content/cdn-uploads/Preorder-from-Inorder-and-Postorder-traversals.jpg
+Check the above link to see the example of Inorder traversal
+
+PreOrder traversal:
+-----------------------
+Follow (root, left, right)
+Link : https://media.geeksforgeeks.org/wp-content/cdn-uploads/Preorder-from-Inorder-and-Postorder-traversals.jpg
+Follow the above for all the different types of traversal techniques
+
+PostOrder traversal:
+-------------------------
+Follow (left, right, root)
+Link : https://media.geeksforgeeks.org/wp-content/cdn-uploads/Preorder-from-Inorder-and-Postorder-traversals.jpg
+Follow the above for all the different types of traversal techniques
