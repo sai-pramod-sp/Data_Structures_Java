@@ -1,0 +1,8 @@
+
+
+Binary Search Tree
+--------------------------------------
+Inorder-Precessor : if we are deleting an node in the binary search tree take the bigger node from the
+                    left side of the tree and replace it with the deleting node
+Inorder-successor : if we are deleting an node in the binary search tree take the smaller node from the
+                    right side of the tree and replace it with the deleting node
