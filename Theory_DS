@@ -1,12 +1,12 @@
 
 
-Binary Search Tree
---------------------------------------
+Binary Search Tree(following are the 2 types of deleting a node in a binary search tree)
+---------------------------------------------------------------------------------
 Inorder-Precessor : if we are deleting a node in the binary search tree take the bigger node from the
-                    left side of the tree and replace it with the deleting node
-Inorder-successor : if we are deleting a node in the binary search tree take the smaller node from the
                     right side of the tree and replace it with the deleting node
-
+Inorder-successor : if we are deleting a node in the binary search tree take the smaller node from the
+                    left side of the tree and replace it with the deleting node
+---------------------------------------------------------------------------------
 Inorder traversal:
 -----------------------
 Follow (left, root, right)
