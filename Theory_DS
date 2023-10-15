@@ -54,3 +54,7 @@ While storing the values in the array we will perform %10 operation. if value is
 particular index we should do +1, +2, +2^2, +3^2, +4^2 till we got the empty index to store. if the value is
 out of the array length we need to do %10 operation then keep that value inside that particular index.
 
+Selection sort
+----------------------------
+Follow the below link for selection sort
+Link : https://miro.medium.com/v2/resize:fit:463/0*J2ta_c6YA870MKor
